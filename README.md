@@ -58,12 +58,7 @@ The VR controller implementation uses SteamVR tracking to translate physical con
 
 ### Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/JPsobral20/HelicopterControl.git
-   ```
-
+1. Clone the repository
 2. Open the project using Unity Hub with Unity 6 (6000.0.38f1).
 3. Allow Unity to resolve and import the project dependencies.
 4. Open the `SampleScene` scene.
